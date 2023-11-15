@@ -8,4 +8,3 @@ App
 Course Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=sentiment_analysis)](https://github.com/founchoo/sentiment_analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=sasc)](https://github.com/founchoo/sasc)
