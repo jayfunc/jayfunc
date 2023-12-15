@@ -7,6 +7,12 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=CampusHelper)](https://github.com/founchoo/CampusHelper)
 
+俄罗斯方块（待上传）
+
+数独解析器（待上传）
+
+五子棋（计划）
+
 ## 课设 / Course Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=sentiment_analysis)](https://github.com/founchoo/sentiment_analysis)
