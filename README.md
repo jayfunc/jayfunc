@@ -7,8 +7,6 @@
 
 [![GongYun](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=CampusHelper)](https://github.com/founchoo/GongYun-for-Android)
 
-[![Student Manager](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=StudentManager)](https://github.com/founchoo/StudentManager)
-
 俄罗斯方块（待上传）
 
 数独解析器（待上传）
@@ -17,9 +15,9 @@
 
 ## 课设 / Course Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=sentiment_analysis)](https://github.com/founchoo/sentiment_analysis)
+[![Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=sentiment_analysis)](https://github.com/founchoo/sentiment_analysis)
 
-酒店管理系统（待上传）
+[![Student Manager](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=StudentManager)](https://github.com/founchoo/StudentManager)
 
 留学服务中心（待上传）
 
