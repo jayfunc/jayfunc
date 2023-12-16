@@ -5,7 +5,11 @@
 
 ## 应用 / App
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=CampusHelper)](https://github.com/founchoo/CampusHelper)
+[![GongYun](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=CampusHelper)](https://github.com/founchoo/GongYun-for-Android)
+
+[![Student Manager](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=StudentManager)](https://github.com/founchoo/StudentManager)
+
+https://github.com/founchoo/StudentManager
 
 俄罗斯方块（待上传）
 
