@@ -9,8 +9,6 @@
 
 [![Student Manager](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=StudentManager)](https://github.com/founchoo/StudentManager)
 
-https://github.com/founchoo/StudentManager
-
 俄罗斯方块（待上传）
 
 数独解析器（待上传）
