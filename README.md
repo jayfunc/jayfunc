@@ -13,4 +13,4 @@
 
 [![Study Abroad Service Center](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=sasc)](https://github.com/founchoo/sasc)
 
-[![Car Rental Platform](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=)](https://github.com/founchoo/)
+[![Car Rental Platform](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=car-rental-platform-vite-mdb)](https://github.com/founchoo/car-rental-platform-vite-mdb)
