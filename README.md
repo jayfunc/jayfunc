@@ -5,12 +5,12 @@
 
 ## App
 
-[![GongYun](https://github-readme-stats.vercel.app/api/pin/?username=zhefangbyte&repo=CampusHelper)](https://github.com/zhefangbyte/GongYun-for-Android)
+[![GongYun](https://github-readme-stats.vercel.app/api/pin/?username=zhefangbyte&repo=GongYun-for-Android)](https://github.com/zhefangbyte/GongYun-for-Android)
 
 ## Course Project
 
-[![Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=founchoo&repo=sentiment_analysis)](https://github.com/zhefangbyte/sentiment_analysis)
+[![Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=zhefangbyte&repo=sentiment_analysis)](https://github.com/zhefangbyte/sentiment_analysis)
 
-[![Study Abroad Service Center](https://github-readme-stats.vercel.app/api/pin/?username=zhefangbyte&repo=sasc)](https://github.com/zhefangbyte/sasc)
+[![Study Abroad Service Center](https://github-readme-stats.vercel.app/api/pin/?username=zhefangbyte&repo=Study-Aboard-Service-Center)](https://github.com/zhefangbyte/Study-Aboard-Service-Center)
 
-[![Car Rental Platform](https://github-readme-stats.vercel.app/api/pin/?username=zhefangbyte&repo=car-rental-platform-vite-mdb)](https://github.com/zhefangbyte/car-rental-platform-vite-mdb)
+[![Car Rental Platform](https://github-readme-stats.vercel.app/api/pin/?username=zhefangbyte&repo=CarRentalPlatform.Frontend)](https://github.com/zhefangbyte/CarRentalPlatform.Frontend)
