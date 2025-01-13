@@ -1,7 +1,7 @@
 ## Overview
 
-![founchoo's github stats](https://github-readme-stats.vercel.app/api?username=zhefangbyte&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhefangbyte&hide_border=true&layout=compact)
+![jayllfilebyte's github stats](https://github-readme-stats.vercel.app/api?username=jayllfilebyte&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayllfilebyte&hide_border=true&layout=compact)
 
 ## App
 
