@@ -24,7 +24,7 @@
    - **功能**: React Three Fiber 是 React 的 WebGL 渲染引擎，用于在 React 中创建 3D 图形，Drei 提供了常用的 3D 组件和帮助函数，如灯光、相机控制等。
    - **链接**: 
      - React Three Fiber: [https://github.com/pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
-     - Drei: [https://github.com/pmndrs/react-three-drei](https://github.com/pmndrs/react-three-drei)
+     - Drei: [https://github.com/pmndrs/drei](https://github.com/pmndrs/drei)
 
 ### 7. **React Hook Form & Resolvers**  
    - **功能**: React Hook Form 是一个轻量级的表单处理库，帮助开发者在 React 中简洁地处理表单验证、提交和错误管理。`@hookform/resolvers` 提供了与 Zod 和其他验证库的兼容性。
