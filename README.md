@@ -5,6 +5,8 @@
 
 ## App
 
+[![BetterLyrics](https://github-readme-stats.vercel.app/api/pin/?username=jayfunc&repo=BetterLyrics)](https://github.com/jayfunc/BetterLyrics)
+
 [![GongYun](https://github-readme-stats.vercel.app/api/pin/?username=jayfunc&repo=GongYun-for-Android)](https://github.com/jayfunc/GongYun-for-Android)
 
 ## Course Project
