@@ -15,8 +15,6 @@
 
 [![Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=jayfunc&repo=sentiment_analysis)](https://github.com/jayfunc/sentiment_analysis)
 
-[![Study Abroad Service Center](https://github-readme-stats.vercel.app/api/pin/?username=jayfunc&repo=Study-Aboard-Service-Center)](https://github.com/jayfunc/Study-Aboard-Service-Center)
-
 [![Car Rental Platform](https://github-readme-stats.vercel.app/api/pin/?username=jayfunc&repo=CarRentalPlatform.Frontend)](https://github.com/jayfunc/CarRentalPlatform.Frontend)
 
 ## Competition Project
