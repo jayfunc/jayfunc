@@ -5,6 +5,8 @@ I am passionate about software development, new technologies, and open-source pr
 ## 🧮 Contribution Stats
 [![jayfunc's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jayfunc&show_icons=true&hide_border=true&hide_title=true&theme=dark#gh-dark-mode-only)](//#gh-dark-mode-only)
 [![jayfunc's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jayfunc&show_icons=true&hide_border=true&hide_title=true&theme=default#gh-light-mode-only)](//#gh-light-mode-only)
+
+## 💻 Top Languages
 [![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jayfunc&hide_border=true&layout=compact&hide_title=true&theme=dark#gh-dark-mode-only)](//#gh-dark-mode-only)
 [![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=jayfunc&hide_border=true&layout=compact&hide_title=true&theme=default#gh-light-mode-only)](//#gh-light-mode-only)
 
