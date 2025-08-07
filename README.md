@@ -1,26 +1,8 @@
-## Overview
+## 👋 Hi there! I'm jayfunc.
 
-![jayfunc's github stats](https://github-readme-stats.vercel.app/api?username=jayfunc&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayfunc&hide_border=true&layout=compact)
+I am passionate about software development, new technologies, and open-source projects. I enjoy capturing moments with 🎨 [pen](https://jayfunc.vercel.app/drawings) and camera, bracing nature with enthusiasm, and exploring the world with curiosity.
 
-## App
-
-[![BetterLyrics](https://github-readme-stats.vercel.app/api/pin/?username=jayfunc&repo=BetterLyrics)](https://github.com/jayfunc/BetterLyrics)
-
-[![GongYun](https://github-readme-stats.vercel.app/api/pin/?username=jayfunc&repo=GongYun-for-Android)](https://github.com/jayfunc/GongYun-for-Android)
-
-## Course Project
-
-[![EnergyPix](https://github-readme-stats.vercel.app/api/pin/?username=jayfunc&repo=energypix)](https://github.com/jayfunc/energypix)
-
-[![Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=jayfunc&repo=sentiment_analysis)](https://github.com/jayfunc/sentiment_analysis)
-
-[![Car Rental Platform](https://github-readme-stats.vercel.app/api/pin/?username=jayfunc&repo=CarRentalPlatform.Frontend)](https://github.com/jayfunc/CarRentalPlatform.Frontend)
-
-## Competition Project
-
-[![Oil Level Detection System](https://github-readme-stats.vercel.app/api/pin/?username=jayfunc&repo=OilLevelDetectionSystem)](https://github.com/jayfunc/OilLevelDetectionSystem)
-
-## Undergraduate Graduation Project
-
-[![MagicRemover](https://github-readme-stats.vercel.app/api/pin/?username=jayfunc&repo=MagicRemover)](https://github.com/jayfunc/MagicRemover)
+[![jayfunc's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jayfunc&show_icons=true&hide_border=true&hide_title=true&theme=dark#gh-dark-mode-only)](//#gh-dark-mode-only)
+[![jayfunc's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jayfunc&show_icons=true&hide_border=true&hide_title=true&theme=default#gh-light-mode-only)](//#gh-light-mode-only)
+[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jayfunc&hide_border=true&layout=compact&hide_title=true&theme=dark#gh-dark-mode-only)](//#gh-dark-mode-only)
+[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=jayfunc&hide_border=true&layout=compact&hide_title=true&theme=default#gh-light-mode-only)](//#gh-light-mode-only)
