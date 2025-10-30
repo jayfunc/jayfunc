@@ -1,4 +1,4 @@
-## Hi there! I'm jayfunc/摘叶飞镖
+## Hi there! I'm jayfunc / 摘叶飞镖
 
 I am passionate about software development, new technologies, and open-source projects. I enjoy capturing moments with 🎨 [pen](https://jayfunc.vercel.app/drawings) and camera, bracing nature with enthusiasm, and exploring the world with curiosity.
 
