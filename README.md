@@ -1,6 +1,6 @@
 ## Hi there! I'm Zhe Fang (Jay) 👋
 
-> 🇨🇳 中文 ID：**摘叶飞镖**
+> 中文 ID：**摘叶飞镖**
 
 I am a **Software Developer** based in **Hamilton, Ontario**, specializing in the **.NET Ecosystem** and Desktop Application Development.
 
