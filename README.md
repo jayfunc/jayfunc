@@ -1,4 +1,4 @@
-## Hi there! I'm Zhe Fang (jayfunc / 摘叶飞镖)
+## Hi there! I'm Zhe Fang (Jay) 👋
 
 I am a **Software Developer** based in **Hamilton, Ontario**, specializing in the **.NET Ecosystem** and Desktop Application Development.
 
