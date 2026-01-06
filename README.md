@@ -2,7 +2,7 @@
 
 > 中文 ID：**摘叶飞镖**
 
-I am a **Software Developer** based in **Hamilton, Ontario**, specializing in the **.NET Ecosystem** and Desktop Application Development.
+I am a **Software Developer** based in **Hamilton, Ontario**, focusing on the **.NET Ecosystem** and Desktop Application Development.
 
 I have a passion for engineering high-performance applications with modern UI/UX. Currently, I am the lead maintainer of **BetterLyrics**, an open-source project with a thriving community.
 
