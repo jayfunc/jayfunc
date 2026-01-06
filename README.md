@@ -12,7 +12,7 @@ I have a passion for engineering high-performance applications with modern UI/UX
 
 > *A high-performance, animated desktop lyrics application built for Windows.*
 >
-> [![GitHub stars](https://img.shields.io/github/stars/jayfunc/BetterLyrics?style=social)](https://github.com/[YOUR_GITHUB_ID]/BetterLyrics)
+> [![GitHub stars](https://img.shields.io/github/stars/jayfunc/BetterLyrics?style=social)](https://github.com/jayfunc/BetterLyrics)
 
 **Tech Stack:** `C#` `WinUI 3` `Windows App SDK` `Win2D` `MVVM`
 
