@@ -48,7 +48,7 @@ I have a passion for engineering high-performance applications with modern UI/UX
 
 ### 📫 Let's Connect
 
-I am currently **Open to Work** for Software Developer roles in the **Greater Toronto & Hamilton Area (GTHA)**.
+I am currently **Open to Work** for Software Developer roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhe-fang-a58314144)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zhefang.zf@gmail.com)
