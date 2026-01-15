@@ -12,7 +12,7 @@ Currently, I'm building **BetterLyrics**, an open-source app aimed at delivering
 
 ### 🚀 Featured Project: BetterLyrics
 
-> *A smooth, high-performance desktop lyrics app for Windows.*
+> *An elegant and deeply customizable lyrics visualizer & versatile music player, built with WinUI3/Win2D*
 >
 > [![GitHub stars](https://img.shields.io/github/stars/jayfunc/BetterLyrics?style=social)](https://github.com/jayfunc/BetterLyrics)
 
