@@ -1,27 +1,36 @@
-## Hi there! I'm Zhe Fang (Jay) 👋
+### Hi there! I'm Zhe Fang (Jay) 👋
 
-> 中文 ID：**摘叶飞镖**
+> **摘叶飞镖**
 
-I am a **Software Developer** based in **Hamilton, Ontario**, focusing on the **.NET Ecosystem** and Desktop Application Development.
+I am a developer based in **Hamilton, Ontario**.
 
-I have a passion for engineering high-performance applications with modern UI/UX. Currently, I am the lead maintainer of **BetterLyrics**, an open-source project with a thriving community.
+I enjoy building polished desktop applications and exploring new tech stacks. My primary focus is **.NET (WinUI 3)**, but I also love working with **Python, TypeScript, and Kotlin**.
+
+Currently, I'm building **BetterLyrics**, an open-source app aimed at delivering the best music experience on Windows.
 
 ---
 
 ### 🚀 Featured Project: BetterLyrics
 
-> *A high-performance, animated desktop lyrics application built for Windows.*
+> *A smooth, high-performance desktop lyrics app for Windows.*
 >
 > [![GitHub stars](https://img.shields.io/github/stars/jayfunc/BetterLyrics?style=social)](https://github.com/jayfunc/BetterLyrics)
 
+<a href="https://github.com/jayfunc/BetterLyrics">
+  <img src="https://raw.githubusercontent.com/jayfunc/BetterLyrics/refs/heads/dev/docs/assets/promotion/banner.png" width="100%" />
+</a>
+
+<br>
+
 **Tech Stack:** `C#` `WinUI 3` `Windows App SDK` `Win2D` `MVVM`
 
-**Engineering Highlights:**
-* **High Performance:** Engineered a custom rendering pipeline using **Win2D (DirectX)** to achieve 60fps smooth animations, optimizing CPU usage by 30%.
-* **Architecture:** Built using a strict **MVVM** pattern to ensure testability and maintainability of the complex codebase.
-* **Complex Logic:** Solved critical rendering challenges regarding **multi-line harmony/duet synchronization** (overlapping time-axis).
+**Under the Hood:**
+* **Custom Rendering Engine:** Built directly on **Win2D (DirectX)** to achieve silky-smooth 60fps animations.
+* **Performance:** Optimized rendering logic, reducing CPU usage by **~30%** compared to traditional UI controls.
+* **Complex Logic:** Solved the "overlapping timestamps" challenge to support **multi-line harmony/duet lyrics**.
+* **Architecture:** Clean **MVVM** structure for maintainability.
 
-[View Project Code →](https://github.com/jayfunc/BetterLyrics)
+[View Source Code →](https://github.com/jayfunc/BetterLyrics)
 
 ---
 
