@@ -75,3 +75,7 @@ I am currently **Open to Work** for Software Developer roles.
 
 [![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jayfunc&hide_border=true&layout=compact&hide_title=true&theme=dark#gh-dark-mode-only)](//#gh-dark-mode-only)
 [![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=jayfunc&hide_border=true&layout=compact&hide_title=true&theme=default#gh-light-mode-only)](//#gh-light-mode-only)
+
+## 🐍 Contribution Snake
+[![Snake Dark](https://github.com/jayfunc/jayfunc/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](//#gh-dark-mode-only)
+[![Snake Light](https://github.com/jayfunc/jayfunc/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)](//#gh-light-mode-only)
