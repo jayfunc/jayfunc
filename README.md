@@ -6,7 +6,7 @@ I'm a developer who loves building polished desktop applications and tinkering w
 
 Right now, I'm pouring my free time into [**BetterLyrics**](https://github.com/jayfunc/BetterLyrics), an open-source app dedicated to bringing an amazing, customizable music experience to Windows.
 
-When I'm not optimizing rendering engines or writing code, I love to draw. I keep a digital gallery of my sketches, movie scene studies, and nature illustrations. 🎨 [**Check out my Notion Art Gallery**](https://topaz-seed-d12.notion.site/319489e27f45808a8163cbe04447f90b)
+When I'm not optimizing rendering engines or writing code, I love to draw. I keep a digital gallery of my sketches, movie scene studies, and nature illustrations. 🎨 [**Check out my Notion Art Gallery**](https://jayfunc.github.io)
 
 ---
 
@@ -31,7 +31,7 @@ When I'm not optimizing rendering engines or writing code, I love to draw. I kee
 * **Robust Lyrics Engine:** Granular control over lyrics/song matching (adjust match degrees, order, and custom song info mapping). Supports local files, online sources, plugins, advanced formats (`.ttml`, `.eslrc`), and even offline machine translation.
 * **Quality of Life:** Integrated Discord RPC, Last.fm scrobbling, local listening stats, and smart behaviors like auto-hiding when paused.
 
-[**View Source Code →**](https://github.com/jayfunc/BetterLyrics)
+[**View Source Code →**](https://jayfunc.github.io)
 
 ---
 
