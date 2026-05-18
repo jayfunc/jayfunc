@@ -68,7 +68,7 @@ While I spend a lot of time building elegant visual experiences in code (like Be
 
 I'm always down to chat about open-source, cool tech, or my next side project! Feel free to reach out or check out my channels:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zhefang.zf@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zhefang.zf@foxmail.com)
 [![Bilibili](https://img.shields.io/badge/哔哩哔哩-FB7299?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/36159702)
 [![Cnblogs](https://img.shields.io/badge/博客园-blue?style=flat&logo=rss&logoColor=white)](https://www.cnblogs.com/jayfunc)
 
