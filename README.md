@@ -76,11 +76,11 @@ I'm always down to chat about open-source, cool tech, or my next side project! F
 
 ### 📊 GitHub Analytics
 
-[![jayfunc's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jayfunc&show_icons=true&hide_border=true&hide_title=true&theme=dark#gh-dark-mode-only)](//#gh-dark-mode-only)
-[![jayfunc's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jayfunc&show_icons=true&hide_border=true&hide_title=true&theme=default#gh-light-mode-only)](//#gh-light-mode-only)
+[![jayfunc's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=jayfunc&show_icons=true&hide_border=true&hide_title=true&theme=dark#gh-dark-mode-only)](//#gh-dark-mode-only)
+[![jayfunc's GitHub stats-Light](https://github-stats-extended.vercel.app/api?username=jayfunc&show_icons=true&hide_border=true&hide_title=true&theme=default#gh-light-mode-only)](//#gh-light-mode-only)
 
-[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jayfunc&hide_border=true&layout=compact&hide_title=true&theme=dark#gh-dark-mode-only)](//#gh-dark-mode-only)
-[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=jayfunc&hide_border=true&layout=compact&hide_title=true&theme=default#gh-light-mode-only)](//#gh-light-mode-only)
+[![Top Langs Dark](https://github-stats-extended.vercel.app/api/top-langs/?username=jayfunc&hide_border=true&layout=compact&hide_title=true&theme=dark#gh-dark-mode-only)](//#gh-dark-mode-only)
+[![Top Langs Light](https://github-stats-extended.vercel.app/api/top-langs/?username=jayfunc&hide_border=true&layout=compact&hide_title=true&theme=default#gh-light-mode-only)](//#gh-light-mode-only)
 
 ## 🐍 Contribution Snake
 [![Snake Dark](https://github.com/jayfunc/jayfunc/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](//#gh-dark-mode-only)
